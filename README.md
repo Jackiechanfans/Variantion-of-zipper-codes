@@ -60,7 +60,7 @@ In `Zippersetting.txt`, make sure that:
 1. The flag of "Runing_anchor_decoding_option" must be set to 1.
 2. The number of "Anchor_decoding_threshold_value" must be consistent with the value of "Number_of_zipper_codes", where these values of "Anchor_decoding_threshold_value" will affect the simulation results.
 
-Other configurations are similar to that of the case of TDZC with iBDD.
+Other configurations are similar to that of the cases of TDZC with iBDD.
 
 ### 2) MC-TDZC with iBDD or AD
 If you want to simulate **MC-TDZC with iBDD**, please configure **GIISetting.txt** and **Zippersetting.txt**.
@@ -84,7 +84,7 @@ In `Zippersetting.txt`, make sure that:
 1. The flag of "Runing_anchor_decoding_option" must be set to 1.
 2. The number of "Anchor_decoding_threshold_value" must be consistent with the value of "Number_of_zipper_codes", where these values of "Anchor_decoding_threshold_value" will affect the simulation results.
 
-Other configurations are similar to that of the case of MC-TDZC with iBDD.
+Other configurations are similar to that of the cases of MC-TDZC with iBDD.
 
 ### 3) GII(4,3)-TDZC with AD
 If you want to simulate **GII(4,3)-TDZC with AD**, please configure **GIISetting.txt** and **Zippersetting.txt**.
