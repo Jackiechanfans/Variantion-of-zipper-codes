@@ -1,0 +1,10 @@
+SettingOption_-1forDefault_0forRandom_1forStdin_2forFile
+2 2 2 2
+Seed0Setting
+1984539882
+Seed1Setting
+16421 26663 24331
+Seed2Setting
+1434456882
+Seed3Setting
+1434532501
