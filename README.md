@@ -1,5 +1,5 @@
 # A class of variant of zipper codes
-A C++ implementation for simulating the encoding and decoding of the variant of zipper codes, such as multi-chain tiled diagonal zipper codes (**MC-TDZC**) and generalized integrated interleaved zipper (**GII-zipper**) codes, and simulating the anchor decoding (**AD**) for the zipper codes.
+A C++ implementation for simulating the encoding and decoding of the variant of zipper codes, such as multi-chain tiled diagonal zipper codes (**MC-TDZCs**) and generalized integrated interleaved zipper (**GII-zipper**) codes, and simulating the anchor decoding (**AD**) for the zipper codes.
 
 ## Reference
 More details about **zipper codes**, **MC-TDZCs**, **GII-zipper codes**, and **AD** can be found in the following papers.
