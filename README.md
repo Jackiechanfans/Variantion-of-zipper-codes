@@ -102,7 +102,7 @@ In `GIISetting.txt`, make sure that:
 The codes in this repository are under the MIT license as specified by the LICENSE file.
 
 ## Notes
-If you find these codes are useful, please cite these papers:
+If you find these codes helpful, please cite these papers:
 - Y. Sukmadji, U. Martínez-Peñas, and F. R. Kschischang, “[Zipper codes](https://ieeexplore.ieee.org/document/9843869),” J. Lightw. Technol., vol. 40, no. 19, pp. 6397-6407, Jul. 2022.
 - X. Zhao, S. Zhao, and X. Ma, “[A class of tiled diagonal zipper codes with multiple chains](https://ieeexplore.ieee.org/document/9802520),” IEEE Trans. Commun., vol. 70, no. 8, pp. 5004-5017, Aug. 2022.
 - X. Zhao, S. Zhao, and Z. Li, “[Enhanced anchor decoder for staircase codes with hard reliability scores](https://ieeexplore.ieee.org/document/9887957),” IEEE Commun. Lett., pp. 1–1, 2022.
