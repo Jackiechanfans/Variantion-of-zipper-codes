@@ -99,7 +99,7 @@ In `GIISetting.txt`, make sure that:
 3. $n$ is divisible by $w$.
 
 ## License
-The codes in in this repository are under the MIT license as specified by the LICENSE file.
+The codes in this repository are under the MIT license as specified by the LICENSE file.
 
 ## Notes
 If you find these codes are useful, please cite these paper:
