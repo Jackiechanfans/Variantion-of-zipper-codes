@@ -9,7 +9,7 @@ More details about **zipper codes**, **MC-TDZCs**, **GII-zipper codes**, and **A
 - C. Häger and H. Pfister, “[Approaching miscorrection-free performance of product codes with anchor decoding](https://ieeexplore.ieee.org/document/8316914),” IEEE Tran. Commun., vol. 66, no. 7, pp. 2797-2808, Jul. 2018.
 
 ## Features
-The program simulates the variant **tiled diagonal zipper codes** (TDZCs) with **iterative bounded distance decoding** (iBDD) or **anchor decoding** (AD) over the **binary symmetric channel**,  where the size of 'tile' can be configured by the user.
+The program simulates the variant of **tiled diagonal zipper codes** (TDZCs) with **iterative bounded distance decoding** (iBDD) or **anchor decoding** (AD) over the **binary symmetric channel**,  where the size of 'tile' can be configured by the user.
 
 The program can achieve the following simulations:
 - TDZC with iBDD or AD
