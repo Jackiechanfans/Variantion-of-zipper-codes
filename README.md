@@ -1,11 +1,12 @@
-# A class of variant of zipper codes
+# A class of variants of zipper codes
 A C++ implementation for simulating the encoding and decoding of the variant of zipper codes, such as multi-chain tiled diagonal zipper codes (**MC-TDZCs**) and generalized integrated interleaved zipper (**GII-zipper**) codes, and simulating the anchor decoding (**AD**) for the zipper codes.
 
 ## Reference
 More details about **zipper codes**, **MC-TDZCs**, **GII-zipper codes**, and **AD** can be found in the following papers.
 - Y. Sukmadji, U. Martínez-Peñas, and F. R. Kschischang, “[Zipper codes](https://ieeexplore.ieee.org/document/9843869),” J. Lightw. Technol., vol. 40, no. 19, pp. 6397-6407, Jul. 2022.
 - X. Zhao, S. Zhao, and X. Ma, “[A class of tiled diagonal zipper codes with multiple chains](https://ieeexplore.ieee.org/document/9802520),” IEEE Trans. Commun., vol. 70, no. 8, pp. 5004-5017, Aug. 2022.
-- X. Zhao, S. Zhao, and Z. Li, “[Enhanced anchor decoder for staircase codes with hard reliability scores](https://ieeexplore.ieee.org/document/9887957),” IEEE Commun. Lett., pp. 1–1, 2022.
+- X. Zhao, S. Zhao, and Z. Li, “[Enhanced anchor decoder for staircase codes with hard reliability scores](https://ieeexplore.ieee.org/document/9887957),” IEEE Commun. Lett., vol. 26, no. 12, pp. 2826-2830, Dec. 2022.
+- X. Zhao, S. Zhao, Q. Huang and X. Ma, “[The Generalized Integrated Interleaved Zipper Codes With Anchor Decoding](https://ieeexplore.ieee.org/document/10100686),” IEEE Tran. Commun., vol. 71, no. 7, pp. 3792-3806, July 2023.
 - C. Häger and H. Pfister, “[Approaching miscorrection-free performance of product codes with anchor decoding](https://ieeexplore.ieee.org/document/8316914),” IEEE Tran. Commun., vol. 66, no. 7, pp. 2797-2808, Jul. 2018.
 
 ## Features
@@ -104,6 +105,7 @@ If you find these codes helpful, please cite these papers:
 - Y. Sukmadji, U. Martínez-Peñas, and F. R. Kschischang, “[Zipper codes](https://ieeexplore.ieee.org/document/9843869),” J. Lightw. Technol., vol. 40, no. 19, pp. 6397-6407, Jul. 2022.
 - X. Zhao, S. Zhao, and X. Ma, “[A class of tiled diagonal zipper codes with multiple chains](https://ieeexplore.ieee.org/document/9802520),” IEEE Trans. Commun., vol. 70, no. 8, pp. 5004-5017, Aug. 2022.
 - X. Zhao, S. Zhao, and Z. Li, “[Enhanced anchor decoder for staircase codes with hard reliability scores](https://ieeexplore.ieee.org/document/9887957),” IEEE Commun. Lett., pp. 1–1, 2022.
+- X. Zhao, S. Zhao, Q. Huang and X. Ma, “[The Generalized Integrated Interleaved Zipper Codes With Anchor Decoding](https://ieeexplore.ieee.org/document/10100686),” IEEE Tran. Commun., vol. 71, no. 7, pp. 3792-3806, July 2023.
 - C. Häger and H. Pfister, “[Approaching miscorrection-free performance of product codes with anchor decoding](https://ieeexplore.ieee.org/document/8316914),” IEEE Tran. Commun., vol. 66, no. 7, pp. 2797-2808, Jul. 2018.
 
-If you have any questions and suggestions, please contact me at xz_xinwei@163.com.
+If you have any questions and suggestions, please contact me at zhaoxw9@mail2.sysu.edu.cn.
